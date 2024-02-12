@@ -27,9 +27,10 @@ Learn more about manifest.json [here](https://developer.mozilla.org/en-US/docs/M
 
 ### Extension Created but now load it in Browser
 #### Open Google Chrome browser > More tools > Extensions > Developer mode > Load unpacked > select your project directory (where manifest.json exist)
-or
+or    
 #### Open Google Chrome browser and go to `chrome://extensions/`
 
 #### Extension is ready you can check on extension icon
 
-# Made with by ❤️ VanshCodeWorks
+
+<h1 align="center">Made with by ❤️ VanshCodeWorks</h1>
