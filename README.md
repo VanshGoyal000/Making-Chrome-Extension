@@ -7,7 +7,7 @@
 #### Now You have to write  a manifest.json file which contains information about your extension like name, description, version etc.
 
 ##### create a file in root folder named manifest.json
-##### then add some masic info like - 
+##### then add some basic info like - 
 ```
 {
     "name": "Covid-19 Stats UK",
